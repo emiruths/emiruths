@@ -23,9 +23,6 @@ Hi, I’m Emirhan Kandemir, a passionate developer who loves exploring the world
 ![](https://nirzak-streak-stats.vercel.app/?user=emiruths&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emiruths&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=emiruths&theme=nord&no-frame=true&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=emiruths&icon=0&color=0)](https://visitcount.itsvg.in)
 
