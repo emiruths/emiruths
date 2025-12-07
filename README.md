@@ -1,4 +1,4 @@
-[![MasterHead](https://t4.ftcdn.net/jpg/08/86/49/53/360_F_886495385_XudXZcfZb7FqTwSWpDjwOEWfsol6Sw6e.jpg)
+[![MasterHead](https://i.hizliresim.com/7a8ty1i.png)
 # 💫 About Me:
 Hi, I’m Emirhan Kandemir, a passionate developer who loves exploring the world of Data Science and Artificial Intelligence.<br>I enjoy turning data into meaningful insights and building intelligent systems that make life a little smarter every day.<br><br>Beyond AI, I’m also into web development, where I like combining creativity and logic to design clean, modern, and interactive experiences.<br>I’m always curious, always learning — and I truly enjoy collaborating on projects that challenge me to grow and think differently.
 
